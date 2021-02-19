@@ -1,4 +1,4 @@
-# React-Basic-UI
+# React Basic UI
 A React Basic UI for WebApiGateways
 
 ## Solution Description
